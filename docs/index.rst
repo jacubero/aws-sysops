@@ -19,7 +19,8 @@ Contents:
 
    Preface <preface>
    Terraform <terraform>
-
+   Microservices <microservices>
+   Local AWS <local>
 
    *
 
