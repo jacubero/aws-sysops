@@ -22,6 +22,7 @@ Contents:
    Microservices <microservices>
    Local AWS <local>
    Journey to the cloud <journey>
+   Serverless <serverless>
 
    *
 
