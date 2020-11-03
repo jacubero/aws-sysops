@@ -21,6 +21,7 @@ Contents:
    Terraform <terraform>
    Microservices <microservices>
    Local AWS <local>
+   Journey to the cloud <journey>
 
    *
 
