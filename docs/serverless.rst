@@ -33,3 +33,12 @@ Serverless
 `ETL workflow <https://github.com/aws-samples/aws-etl-orchestrator>`_
 
 `AWS Serverless Application Model (AWS SAM) <https://github.com/aws/serverless-application-model>`_
+
+S3 Proxy
+========
+
+`Tutorial: Create a REST API as an Amazon S3 proxy in API Gateway <https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html>`_
+
+`Using API Gateway as an S3 File Upload Proxy Scripted In Terraform <https://medium.com/@robertsparker/using-api-gateway-as-an-s3-file-upload-proxy-scripted-in-terraform-967fa5de295f>`_
+
+`Uploading objects using presigned URLs <https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html>`_

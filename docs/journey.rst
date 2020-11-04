@@ -19,3 +19,9 @@ Journey to the cloud
 `How to migrate <https://aws.amazon.com/es/cloud-migration/how-to-migrate/>`_
 
 `Migrating to AWS Method 2 – Rehosting, aka Lift-and-Shift <https://cloudsoft.io/migrating-to-aws-method-2-rehosting-aka-lift-and-shift/>`_
+
+`Microsoft Cloud Adoption Framework for Azure <https://azure.microsoft.com/en-us/cloud-adoption-framework/>`_
+
+`Cloud Adoption Framework guidance <https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/>`_
+
+`AWS Cloud Adoption Framework <https://aws.amazon.com/es/professional-services/CAF/?nc1=h_ls>`_

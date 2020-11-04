@@ -23,6 +23,7 @@ Contents:
    Local AWS <local>
    Journey to the cloud <journey>
    Serverless <serverless>
+   Observability <observability>
 
    *
 
